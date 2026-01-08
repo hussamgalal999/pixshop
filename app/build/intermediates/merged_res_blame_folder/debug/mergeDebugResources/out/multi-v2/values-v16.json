@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.penrat.studio.app-mergeDebugResources-31:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Hossam Galal\\.gradle\\caches\\9.0-milestone-1\\transforms\\af851a87c921652088a183bc9117ff49\\transformed\\appcompat-1.7.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}
